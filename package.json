@@ -1,6 +1,6 @@
 {
   "name": "fc-web",
-  "version": "3.2.17",
+  "version": "3.2.18",
   "private": true,
   "description": "Web application for FanCode",
   "main": "index.js",
